@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="496.0" prefWidth="710.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.huffmancodegui.HelloController">
+   <children>
+      <Label layoutX="189.0" layoutY="50.0" prefHeight="97.0" prefWidth="332.0" text="Huffman Coding">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Label>
+      <Button fx:id="compress" layoutX="198.0" layoutY="201.0" mnemonicParsing="false" onAction="#compressOnAction" prefHeight="70.0" prefWidth="332.0" text="Compress file" />
+      <Button fx:id="decompress" layoutX="198.0" layoutY="317.0" mnemonicParsing="false" onAction="#decompressOnAction" prefHeight="70.0" prefWidth="332.0" text="Decompress File" />
+   </children>
+</AnchorPane>
