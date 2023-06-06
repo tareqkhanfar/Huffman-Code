@@ -1,3 +1,7 @@
+
+
+https://github.com/tareqkhanfar/Huffman-Code/assets/98056148/78173c45-43f2-463c-8508-e2bfa4971d1d
+
 # HuffmanCoding
 
 Huffman coding is a lossless data compression algorithm that uses variable-length codes to represent characters or symbols in a message.
