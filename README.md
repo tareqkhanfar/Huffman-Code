@@ -1,6 +1,5 @@
 
 
-https://github.com/tareqkhanfar/Huffman-Code/assets/98056148/78173c45-43f2-463c-8508-e2bfa4971d1d
 
 # HuffmanCoding
 
@@ -17,7 +16,7 @@ Assign a 0 to each edge that leads to a left child and a 1 to each edge that lea
 Traverse the tree to determine the code for each symbol by concatenating the 0s and 1s on the path from the root to the leaf node representing the symbol.
 The resulting Huffman code is a prefix-free code, which means that no code word is a prefix of any other code word. This property ensures that the code can be uniquely decoded without any ambiguity.
 
-https://user-images.githubusercontent.com/98056148/232039545-1fb47ec7-d11b-448e-b905-1ba57f332d11.mp4
+https://github.com/tareqkhanfar/Huffman-Code/assets/98056148/78173c45-43f2-463c-8508-e2bfa4971d1d
 
 ![Screenshot (165)](https://user-images.githubusercontent.com/98056148/232039376-283274de-a42f-4cdf-b032-a91597cd4948.png)
 ![Screenshot (164)](https://user-images.githubusercontent.com/98056148/232039382-5516bb40-e7b3-43fc-a1ac-f085402e657f.png)
